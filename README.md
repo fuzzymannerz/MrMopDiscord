@@ -4,6 +4,8 @@
 Open source discord channel cleaning bot.    
 Mr. Mop was used on over 10,000 Discord servers daily and had mopped up nearly 40,000,000 messages. Now he's open for everyone!
 
+https://discord.gg/GqhxktM
+
 # Requirements
 * A Registered [Discord App](https://discordapp.com/developers/applications) (Or 2 if you want one for development)
 * Python >= 3.3
@@ -40,4 +42,4 @@ I won't explain how to do it as you'll have to visit the various sites but they 
 # Reporting Problems & Issues
 Mr.Mop is no longer going to be maintained by myself but I will accept community additions and pull requests if needed. Please do not contact me on Discord via DM regarding Mr. Mop. It will likely be ignored.    
 
-Having said that, the Mr. Mop Support Server will remain online for discussion of this project.
+Having said that, the Mr. Mop Support Server will remain online for discussion of this project at https://discord.gg/GqhxktM
