@@ -30,8 +30,6 @@ import threading
 devMode = False  # IMPORTANT! CHANGE WHEN DEVELOPING!
 #####################################################
 
-app = Flask(__name__)
-
 version = "1.9.0" # Format: Major.Minor.BugFix
 lastUpdated = "31 Oct 2019"
 
