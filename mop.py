@@ -316,8 +316,8 @@ async def mop(ctx, number):
 
 
 # Update the discordbots.org page with total server count
-async def updateBotListAPI():
-    while not bot.is_closed():
+#async def updateBotListAPI():
+    #while not bot.is_closed():
 
         # Update discordbots.org count
         #dboauthToken = "********"
