@@ -16,7 +16,8 @@ https://discord.gg/GqhxktM
 
 # Python Library Requirements
 * [Discord.py Rewrite](https://github.com/Rapptz/discord.py/archive/rewrite.zip) (Install the zip via `pip` is easiest)
-* asyncio (`pip install asyncio`)
+* asyncio (`pip3 install asyncio`)
+* requests (`pip3 install requests`)
 
 # To Run
 1. Change the Discord API tokens (replace the ****) at the bottom of the `mop.py` file.   
